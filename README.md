@@ -4,7 +4,7 @@
 
 I am a B.Tech graduate with a strong interest in Machine Learning, Data Science, Cybersecurity, and Predictive Analytics. I enjoy building projects, exploring emerging technologies, and applying data-driven approaches to solve real-world problems.
 
----
+
 
 ## 🚀 About Me
 
@@ -15,7 +15,6 @@ I am a B.Tech graduate with a strong interest in Machine Learning, Data Science,
 - 🌱 Currently expanding my knowledge in AI and intelligent systems
 - 📚 Always learning something new
 
----
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +33,7 @@ I am a B.Tech graduate with a strong interest in Machine Learning, Data Science,
 - Predictive Analytics
 - Research & Innovation
 
----
+
 
 ## 📌 Featured Project
 
@@ -49,15 +48,7 @@ A predictive analytics project that uses time-series forecasting techniques to a
 - Trend Analysis
 - Future Crime Rate Estimation
 
----
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjanpatel-786&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanpatel-786&layout=compact)
-
----
 
 ## 🏆 Skills
 
@@ -68,7 +59,7 @@ A predictive analytics project that uses time-series forecasting techniques to a
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
----
+
 
 ## 🎯 Current Goals
 
@@ -77,6 +68,5 @@ A predictive analytics project that uses time-series forecasting techniques to a
 - Contribute to open-source projects
 - Explore research opportunities in emerging technologies
 
----
 
 ### ✨ Powered by curiosity.
