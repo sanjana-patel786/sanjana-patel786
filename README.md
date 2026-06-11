@@ -22,7 +22,7 @@ I am a B.Tech graduate with a strong interest in Machine Learning, Data Science,
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql" />
 </p>
 
----
+
 
 ## 💡 Areas of Interest
 
