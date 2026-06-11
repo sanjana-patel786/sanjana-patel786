@@ -35,21 +35,6 @@ I am a B.Tech graduate with a strong interest in Machine Learning, Data Science,
 
 
 
-## 📌 Featured Project
-
-### Crime Rate Forecasting System
-
-A predictive analytics project that uses time-series forecasting techniques to analyze historical crime data and estimate future crime trends.
-
-**Key Highlights**
-- Time Series Forecasting
-- ARIMA-based Prediction Models
-- Data Visualization
-- Trend Analysis
-- Future Crime Rate Estimation
-
-
-
 ## 🏆 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
