@@ -1,4 +1,4 @@
-# Hi, I'm Sanjana 👋
+# Hi Coders, I'm Sanjana 👋
 
 ### Technology Enthusiast | Machine Learning Learner | Cybersecurity Explorer
 
